@@ -31,7 +31,6 @@ class Carrinho {
             console.log(c)
      }
 
-
     }
 
   
